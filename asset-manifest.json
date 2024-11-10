@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/toggle-button/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/toggle-button/static/js/main.dd00306e.chunk.js",
+    "main.js.map": "/toggle-button/static/js/main.dd00306e.chunk.js.map",
+    "runtime~main.js": "/toggle-button/static/js/runtime~main.3214b236.js",
+    "runtime~main.js.map": "/toggle-button/static/js/runtime~main.3214b236.js.map",
+    "static/js/2.ca150098.chunk.js": "/toggle-button/static/js/2.ca150098.chunk.js",
+    "static/js/2.ca150098.chunk.js.map": "/toggle-button/static/js/2.ca150098.chunk.js.map",
+    "static/js/3.1b3c587a.chunk.js": "/toggle-button/static/js/3.1b3c587a.chunk.js",
+    "static/js/3.1b3c587a.chunk.js.map": "/toggle-button/static/js/3.1b3c587a.chunk.js.map",
+    "index.html": "/toggle-button/index.html",
+    "precache-manifest.8fbfeba9c87bcb8b2bb11fbccc055f2e.js": "/toggle-button/precache-manifest.8fbfeba9c87bcb8b2bb11fbccc055f2e.js",
+    "service-worker.js": "/toggle-button/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/toggle-button/static/css/main.5ecd60fb.chunk.css.map"
+  }
+}
